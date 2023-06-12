@@ -26,5 +26,7 @@ namespace Text_Adventure
             damage = mstDamage;
             weapon = mstWeapon;
         }
+
+
     }
 }

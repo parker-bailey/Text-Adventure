@@ -17,6 +17,12 @@ namespace Text_Adventure
             //Opening statement
             Console.WriteLine("Hello, and welcome to this text adventure\n");
 
+            //Creating your character
+            Console.Write("Please enter your charactes name: ");
+            string name = Console.ReadLine();
+            Console.WriteLine("Choose player class");
+            Console.Write("A for Rogue, B for Fighter, C for Wizard");
+
 
 
         }

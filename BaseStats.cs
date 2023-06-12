@@ -8,5 +8,6 @@ namespace Text_Adventure
 {
     class BaseStats
     {
+        public int 
     }
 }
